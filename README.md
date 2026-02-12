@@ -1,1 +1,1 @@
-# coffeetek-mvp
+# coffeetek-expo-architecture
